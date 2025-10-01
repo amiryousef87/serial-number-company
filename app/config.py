@@ -14,8 +14,8 @@ MYSQL_DB_NAME = 'smsmysql'
 CALL_BACK_TOKEN = 'CALL BACK TOKEN'
 
 # login cedentials
-USERNAME = 'jadi'
-PASSWORD = 'pass'
+USERNAME = 'Amiryousef'
+PASSWORD = 'max2025'
 
 # generate one strong secret key for flask.
 SECRET_KEY = 'random long string with alphanumeric + #()*&'
